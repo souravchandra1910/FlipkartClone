@@ -1,7 +1,7 @@
 @media screen and (max-width:500px) {
   header,
   footer {
-    width: 998px;
+    width: 200vw;
   }
 
   nav {
