@@ -83,7 +83,7 @@ nav ul li a:hover {
   flex-direction: column;
 }
 .slider {
-  max-width: 12px auto;
+  width:35px 200px;
   overflow: hidden;
 }
 
