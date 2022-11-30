@@ -93,3 +93,10 @@ footer {
   color: white;
   font-family: "Lato", sans-serif;
 }
+
+header,footer{
+  width: 1600px;
+}
+footer{
+  margin-top: 200px;
+}
